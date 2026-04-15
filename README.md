@@ -4,7 +4,7 @@ This project primarily focuses on converting audio into text, text to audio, OCR
 Textify is an app that helps users manage text and audio efficiently. 
 It converts between formats like audio, text, and visual notes, improving accessibility and productivity for students, professionals, and individuals with disabilities.
 Enables effortless transcription and audio playback.
-Simple and intuitive design for easy navigation.
+
 
 1. Audio-to-text conversion
     Provide a system for transcribing live recordings using STT.
